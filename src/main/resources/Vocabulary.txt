@@ -1,0 +1,1 @@
+1. When ur method return sth the signature of the method can't be void. Instead it will be data type of the return value.
